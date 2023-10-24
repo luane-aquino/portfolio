@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/luane-aquino"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/luane-aquino"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:luane.aquino.br@gmail.com"
+        }
+    ]
+}

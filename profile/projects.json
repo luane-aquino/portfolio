@@ -1,0 +1,65 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/weather-app.png",
+            "title": "Simple weather app",
+            "bodyText": "- Weather app made with vanilla JavaScript\n -  Uses real weather data from OpenWeatherAPI.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/luane-aquino/simple-weather-app"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://luane-aquino.github.io/simple-weather-app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/instagram-clone.png",
+            "title": "Simple Instagram clone",
+            "bodyText": "- It is a simple Instagram clone made with React.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/luane-aquino/instagram-clone-react-app"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://luane-aquino.github.io/instagram-clone-react-app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/twitter-clone.png",
+            "title": "Simple Twitter clone",
+            "bodyText": "- It is a simple Twitter clone made with JavaScript.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/luane-aquino/twitter-clone-javascript"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://luane-aquino.github.io/twitter-clone-javascript/index.html"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        }
+    ]
+}
