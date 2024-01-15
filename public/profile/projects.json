@@ -21,6 +21,27 @@
             ]
         },
         {
+            "image" : "images/projects/checkout-app.png",
+            "title": "Checkout app",
+            "bodyText": "- This is a simple checkout app that shows 3 steps (cart, payment and confirmation)",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/luane-aquino/checkout"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://checkout-app-portfolio.vercel.app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
             "image" : "images/projects/instagram-clone.png",
             "title": "Simple Instagram clone",
             "bodyText": "- It is a simple Instagram clone made with React.",
